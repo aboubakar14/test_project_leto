@@ -1,0 +1,15 @@
+{
+  "plop": {
+    "terrator-plugin": {
+      "aws_ami_1": {
+        "x": 559,
+        "y": 227,
+        "width": 110,
+        "height": 80,
+        "needsResizing": false,
+        "needsPositioning": false,
+        "manuallyResized": false
+      }
+    }
+  }
+}
