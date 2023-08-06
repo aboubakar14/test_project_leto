@@ -1,0 +1,28 @@
+{
+  "toto": {
+    "terrator-plugin": {
+      "aws_1": {
+        "x": 716,
+        "y": 203,
+        "width": 110,
+        "height": 80,
+        "needsResizing": false,
+        "needsPositioning": false,
+        "manuallyResized": false
+      }
+    }
+  },
+  "plop": {
+    "terrator-plugin": {
+      "aws_rds_engine_version_1": {
+        "x": 446,
+        "y": 364.015625,
+        "width": 110,
+        "height": 80,
+        "needsResizing": false,
+        "needsPositioning": false,
+        "manuallyResized": false
+      }
+    }
+  }
+}
